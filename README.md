@@ -99,4 +99,3 @@ MIT License – bebas dipakai, jangan disalahgunakan.
 
 > **"In hacking we trust, in Laravel we detect."** 😄
 
-```
